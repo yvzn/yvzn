@@ -6,7 +6,7 @@ My day job is to solve user problems with software 👨🏽‍💻. I mainly dev
 
 I wish I could promote more craftmanship, accessibility and diversity.
 
-You can find out here on [Github](https://github.com/yvzn) some of my hobbyist projects, like [La recyclette](https://github.com/yvzn/recikligi) and [Tabber](https://github.com/yvzn/tabber), along with experiments with various technologies. You can also find the source code for [my technical blog](https://blog.ludeo.net) (in french) and for my [tech talks slides](https://www.youtube.com/playlist?list=PLl1DNiLw0bBCwRjbcdH003u4kEJ1tBTjk) 👨🏽‍🏫 (also in french).
+You can find out here on [Github](https://github.com/yvzn) some of my hobbyist projects, like [La recyclette](https://github.com/yvzn/recikligi) and [Tabber](https://github.com/yvzn/tabber), along with experiments with various technologies. You can also find the source code for [my technical blog](https://blog.ludeo.net) (in french).
 
 Github profile trivia:
 - 🔭 I am currently working on enterprise apps with _C#_ and _React_
