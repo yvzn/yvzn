@@ -6,7 +6,7 @@ My day job is to solve user problems with software 👨🏽‍💻. I like _Azur
 
 I wish I could promote more accessibility, diversity and craftmanship.
 
-You can find out here on [Github](https://github.com/yvzn) some of my hobbyist projects, like [EasyRead.me](https://github.com/yvzn/easy-to-read), [Alertegelee.fr](https://github.com/yvzn/frosto), [Sun Trip Tracker](https://github.com/yvzn/suno) and [Tabber](https://github.com/yvzn/tabber), along with experiments with various technologies. You can also find the source code for [my personal website](https://ludeo.net).
+You can find out here on [Github](https://github.com/yvzn) some of my hobbyist projects, like [EasyRead.me](https://github.com/yvzn/easy-to-read), [FrostAlert.net](https://github.com/yvzn/frosto), [Sun Trip Tracker](https://github.com/yvzn/suno) and [Tabber](https://github.com/yvzn/tabber), along with experiments with various technologies. You can also find the source code for [my personal website](https://ludeo.net).
 
 Github profile trivia:
 - 🔭 I am currently working as a software engineer
